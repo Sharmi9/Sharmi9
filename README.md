@@ -4,13 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Sharmila</h1>
 <h3 align="center">I’m a passionate software developer from India, excited to learn and grow in the world of technology.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif”> -->
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmi9&label=Profile%20views&color=0e75b6&style=flat" alt="sharmi9" /> </p>
-
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Java**, **SpringBoot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
