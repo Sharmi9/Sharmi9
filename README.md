@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sharmila</h1>
-<h3 align="center">I’m a passionate software developer from India, excited to learn and grow in the world of technology.</h3>
+<h3 align="center">Passionate software developer, excited to learn and grow in the world of technology.</h3>
 
 - 🌱 I’m currently learning **Java**, **SpringBoot**
 
